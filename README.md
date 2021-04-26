@@ -46,6 +46,9 @@ Tools & Frameworks I use:<br>
   <a href = "https://www.oracle.com/in/java/technologies/">
     <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width = "35" height = "35">
   </a> &nbsp;
+  <a href = "https://www.cplusplus.com/">
+    <img src = "c.svg" width = "35" height = "35">
+  </a> &nbsp;
   <a href = "https://www.javascript.com/">
     <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width = "30" height = "30">
   </a> &nbsp;
