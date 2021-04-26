@@ -22,6 +22,9 @@ You can reach me at:<br>
   <a href = "https://supratikchakraborty.medium.com/">
     <img src = "https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width = "30" height = "30">
   </a> &nbsp;
+  <a href = "https://dev.to/deagleofficial">
+    <img src = "dev.png" width = "32" height = "32">
+  </a> &nbsp;
   <a href = "https://www.facebook.com/profile.php?id=100010161426258">
     <img src = "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width = "30" height = "30">
   </a> &nbsp;
