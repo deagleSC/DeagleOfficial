@@ -5,7 +5,7 @@ Undergraduate CS Student | Web Developer | Competitive Programmer | AI Enthusias
 Software Developer driven to find and implement solutions to existing and prospective real-world problems, without compromising the end-user experience.
 In my free time, you might find me dabbling in Competitive Programming, writing poetry, or playing music. 
 <br><br>
-  Here's my <a href="https://supratikchakraborty.netlify.app/Supratik_Chakraborty_Resume.pdf">Resume</a>.
+  Here's my <a href="https://supratikchakraborty.netlify.app/docs/Supratik_Chakraborty.pdf">Resume</a>.
 <br>
   
  <p>
