@@ -1,5 +1,7 @@
 
 <h1 >Hello, I am Supratik Chakraborty  👋</h1>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <p>
 Undergraduate CS Student | Web Developer | Competitive Programmer | AI Enthusiast <br><br>
 Software Developer driven to find and implement solutions to existing and prospective real-world problems, without compromising the end-user experience.
